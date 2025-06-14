@@ -1,0 +1,2 @@
+TOKEN = "MTIzNjcwNzQ3MjI3NDc1NTYxNA.GoaVHJ.BE7qV6Js8fWwwmONlH7DkWaDwg3JzbxmuqQoYg"
+DATABASE = "movie.db"
